@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="halo_clock_center">По центру</string>
+    <string name="halo_clock_status">Строка состояния</string>
+    <string name="halo_desktop_text_color">Цвет текста</string>
+    <string name="halo_color_white">Белый</string>
+    <string name="halo_color_black">Чёрный</string>
+    <string name="halo_color_gray">Тёмно-серый</string>
+    <string name="halo_clock_default">Обычный</string>
+    <string name="halo_clock_large">Большой</string>
+    <string name="halo_clock_extra">Очень большой</string>
+    <string name="halo_device_capacity">Свободная память и хранилище</string>
+    <string name="halo_lite_settings_title">Настройки Hi TV</string>
+    <string name="halo_lite_preview">Предпросмотр</string>
+    <string name="halo_lite_wallpaper">Обои и оформление</string>
+    <string name="halo_lite_clock_weather">Часы и погода</string>
+    <string name="halo_lite_interaction">Управление</string>
+    <string name="halo_lite_security">Безопасность</string>
+</resources>

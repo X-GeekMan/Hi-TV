@@ -1,0 +1,499 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="st_device_capacity">Memory &amp; storage</string>
+    <string name="st_device_capacity_hint">Show available RAM and internal storage below the Home clock.</string>
+    <string name="home_device_capacity">RAM available %1$s · Storage available %2$s</string>
+
+    <string name="app_name" translatable="false">Hi TV</string>
+    <string name="guard_name">Hi TV Home Guard</string>
+    <string name="guard_description">Keeps Hi TV as your home screen on TVs that do not let you change it. Reads no screen content.</string>
+    <string name="greeting_morning">Good morning</string>
+    <string name="greeting_afternoon">Good afternoon</string>
+    <string name="greeting_evening">Good evening</string>
+    <string name="cc_title">Control Center</string>
+    <string name="cc_inputs">Inputs</string>
+    <string name="cc_network">Network</string>
+    <string name="cc_settings">Settings</string>
+    <string name="cc_volume">Volume</string>
+    <string name="cc_muted">Muted</string>
+    <string name="cc_home_default">Hi TV is your home screen</string>
+    <string name="cc_home_guarded">Home Guard is on</string>
+    <string name="cc_home_not_default">Not the default home screen</string>
+    <string name="cc_setup_title">Make Hi TV Your Home Screen</string>
+    <string name="cc_setup_body">Installed from the APK alone, Hi TV opens, but Home, power-on and wake still go to the old launcher.</string>
+    <string name="cc_setup_guard">Turn On Home Guard</string>
+    <string name="cc_setup_guard_where">Accessibility</string>
+    <string name="cc_setup_home">Choose the Default Home App</string>
+    <string name="cc_setup_revival">Return After Standby</string>
+    <string name="cc_setup_revival_where">Notification access</string>
+    <string name="cc_setup_scan">Hi TV setup guide</string>
+    <string name="cc_setup_scan_hint">Scan to read the Hi TV installation and setup guide.</string>
+    <string name="cc_back">Back</string>
+    <string name="cc_no_inputs">No inputs found on this TV</string>
+    <string name="net_ethernet">Ethernet</string>
+    <string name="net_wifi">Wi-Fi</string>
+    <string name="net_offline">Not Connected</string>
+    <string name="net_vpn">VPN</string>
+
+    <string name="input_connected">Connected</string>
+    <string name="input_live_tv">Live TV</string>
+    <string name="input_antenna">Antenna</string>
+    <string name="input_digital">Digital TV</string>
+    <string name="input_av">AV</string>
+    <string name="menu_move">Move</string>
+    <string name="menu_to_folder">Move to Folder</string>
+    <string name="menu_new_folder">New Folder</string>
+    <string name="menu_out_of_folder">Move Out of Folder</string>
+    <string name="menu_rename_folder">Rename</string>
+    <string name="menu_ungroup">Remove Folder</string>
+    <string name="menu_back">Back</string>
+    <string name="folder_default">Folder</string>
+    <string-array name="folder_names">
+        <item>System</item>
+        <item>Video</item>
+        <item>Music</item>
+        <item>Games</item>
+        <item>Kids</item>
+        <item>Tools</item>
+        <item>Folder</item>
+    </string-array>
+    <string name="menu_hide">Hide from Home</string>
+    <string name="menu_reset_icon">Restore Default Icon</string>
+    <string name="menu_info">App Info</string>
+    <string name="menu_uninstall">Uninstall</string>
+    <string name="move_hint">Use the arrows to move · Press OK when done</string>
+    <string name="move_hint_touch">Use the arrows or tap a spot to move · Press OK or tap the app when done</string>
+    <string name="hidden_title">Hidden Apps</string>
+    <string name="hidden_hint">Select an app to put it back on Home</string>
+    <string name="hidden_empty">No hidden apps</string>
+    <string name="launch_failed">Couldn\'t open %1$s</string>
+    <string name="unavailable">Not available on this TV</string>
+    <string name="cc_brightness">Brightness</string>
+    <string name="cc_brightness_in_settings">Picture Settings</string>
+    <string name="cc_personalize">Personalize</string>
+    <string name="wp_title">Personalize</string>
+    <string name="wp_wallpaper">Wallpaper</string>
+    <string name="wp_weather">Weather</string>
+    <string name="wp_weather_none">No weather yet. It loads once the TV is online.</string>
+    <string name="wp_weather_guessed">Located from the network. If that is wrong, scan the code on the right to set your city.</string>
+    <string name="wp_weather_chosen">The city is set on your phone; scan the code on the right to change it.</string>
+    <string name="wx_clear">Clear</string>
+    <string name="wx_partly_cloudy">Partly Cloudy</string>
+    <string name="wx_cloudy">Cloudy</string>
+    <string name="wx_fog">Fog</string>
+    <string name="wx_rain">Rain</string>
+    <string name="wx_snow">Snow</string>
+    <string name="wx_thunder">Thunderstorm</string>
+    <string name="wp_daily_latest">Daily Photo</string>
+    <string name="wp_live">Moving aerial films. They play while Home is on the top row (either row in two rows) and stop on the frame showing when you go further down to the apps, which stays as the picture; the next film picks up from there.</string>
+    <string name="wp_photos_rotate">My Photos, Daily</string>
+    <string name="wp_daily_note">Bing\'s photo of the day, changing to the new one every day.</string>
+    <string name="wp_photos_rotate_note">A different one of your photos each day.</string>
+    <string name="wp_photo_note">Your photo. Scan the code on the right to send more from your phone.</string>
+    <string name="wp_auto_note">Light taken from the selected app\'s artwork.</string>
+    <string name="wp_screensaver">Screensaver</string>
+    <string name="ss_follow_hint">Not chosen yet, so it follows the wallpaper: aerial films with the aerial wallpaper, photos with a picture, starting from that picture. Choose one to keep it.</string>
+    <string name="ss_aerial">Aerial</string>
+    <string name="ss_photos">Photos</string>
+    <string name="ss_clock">Clock</string>
+    <string name="wp_phone_title">Set up from a phone or computer</string>
+    <string name="wp_phone_body">Scan the code, or open the address below in a computer\'s browser, to send photos and videos, change app icons and set the weather\'s city. It must be on the same network as the TV.</string>
+    <string name="wp_phone_offline">Could not get a local network address or start the phone page. Check the connection; retrying automatically.</string>
+    <string name="ss_start">Start Now</string>
+    <string name="ss_delay">Start after</string>
+    <string name="ss_minutes">%d min</string>
+    <string name="ss_never">Never</string>
+    <string name="ss_delay_system">Follows the TV</string>
+    <string name="ss_delay_system_off">Follows the TV · off</string>
+    <string name="ss_delay_system_minutes">Follows the TV · %d min</string>
+    <string name="ss_back_hint">Tip: press Back on the top row of Home to start the screensaver.</string>
+    <string name="ss_back">Back Button</string>
+    <string name="ss_back_on">Starts It</string>
+    <string name="ss_back_off">Does Nothing</string>
+    <string name="ss_back_choice_hint">What Back does on the top row of Home. Turn it off if it gets pressed by accident; the screensaver still starts on its own.</string>
+    <string name="ss_quality">Hi TV Quality</string>
+    <string name="ss_quality_hint">Auto plays the best this TV can show: 4K Dolby Vision, 4K or 1080p. Over the aerial wallpaper the screensaver goes on in the wallpaper\'s format, without a blink; with 4K Dolby Vision chosen it switches to Dolby Vision, and the TV may go black for a moment. 4K Dolby Vision needs about 25 Mbps; choose 1080p if films often skip.</string>
+    <string name="ss_quality_auto">Auto</string>
+    <string name="ss_quality_hd">1080p</string>
+    <string name="ss_quality_uhd">4K</string>
+    <string name="ss_quality_dv">4K Dolby Vision</string>
+    <string name="st_focus_style">Focus Style</string>
+    <string name="st_home_layout">Home Screen</string>
+    <string name="st_layout">Layout</string>
+    <string name="st_clock">Clock</string>
+    <string name="st_clock_left">Top Left</string>
+    <string name="st_clock_right">Top Right</string>
+    <string name="st_clock_hint">Where the clock, date and weather sit.</string>
+    <string name="st_clock_size">Clock Size</string>
+    <string name="st_clock_small">Small</string>
+    <string name="st_clock_large">Large</string>
+    <string name="st_clock_size_hint">Small puts the time and weather in one line in the corner. Large puts a big clock at the top of the screen, the date over it and the weather under it.</string>
+    <string name="st_names">App Names</string>
+    <string name="st_names_focused">Selected App</string>
+    <string name="st_names_all">All Apps</string>
+    <string name="st_names_hint">Names under every app, or only under the selected one, as on Apple TV. With selected only, the top row\'s name sits above its glass plate; with every name shown, those names sit on the plate.</string>
+    <string name="ss_kind">Style</string>
+    <string name="wp_weather_city">Location</string>
+    <string name="st_home_standard">Two Rows</string>
+    <string name="st_home_one_row">One Row</string>
+    <string name="st_home_layout_hint">One Row puts only the top row on screen, low down, so more of the wallpaper shows, a family photo say. Two Rows shows the top of the second row too. Press down for the rest.</string>
+    <string name="st_plate">Top Row</string>
+    <string name="st_plate_hint">A plate of frosted glass under the top row, as on Apple TV, or the apps straight on the wallpaper.</string>
+    <string name="st_plate_glass">Glass</string>
+    <string name="st_plate_none">None</string>
+    <string name="st_sounds">Sounds</string>
+    <string name="st_sounds_hint">A sound as focus moves, and on select and Back, as on Apple TV.</string>
+    <string name="st_sounds_tv_hint">The TV\'s own key sounds, as in its menus. Silent if key sounds are off in the TV\'s settings: choose Hi TV then.</string>
+    <string name="st_sounds_tv">TV</string>
+    <string name="st_sounds_aerial">Hi TV</string>
+    <string name="st_on">On</string>
+    <string name="st_off">Off</string>
+    <string name="st_hidden_apps">Hidden Apps</string>
+    <string name="st_hidden_apps_hint">Apps hidden from Home are kept here, to put back. With a parental PIN set, it asks for the PIN first.</string>
+    <string name="st_hidden_none">None</string>
+    <string name="st_hidden_count">%d</string>
+    <string name="st_focus_high">High Contrast</string>
+    <string name="st_focus_standard">Standard</string>
+    <string name="st_focus_high_hint">A white frame around the selected app, easy to spot from across the room.</string>
+    <string name="st_focus_standard_hint">As on Apple TV out of the box: the selected app only lifts.</string>
+    <string name="st_effects">Performance</string>
+    <string name="st_effects_auto">Balanced</string>
+    <string name="st_effects_full">Visual quality</string>
+    <string name="st_effects_lite">Smooth</string>
+    <string name="st_effects_hint">Smooth reduces visual effects; Balanced adapts to the device; Visual quality keeps full effects. Refresh rate follows the system.</string>
+    <string name="st_effects_auto_lite_hint">This TV has little memory or an older Android, so Auto uses Lite.</string>
+    <string name="cc_inputs_settings">Input Settings</string>
+    <string name="cc_inputs_pin">Show on Home (any number)</string>
+    <string name="cc_inputs_boot">When the TV Turns On (one)</string>
+    <string name="cc_inputs_boot_none">Nothing, stay on Hi TV</string>
+    <string name="cc_inputs_boot_hint">Switch to this input when the TV is turned on or wakes from standby. Home still comes back to Hi TV. To start on an app instead, a live TV app say, press and hold it on Home and choose Open When TV Turns On.</string>
+    <string name="cc_inputs_pin_hint">Pinned inputs appear as tiles at the front of Home; select one to switch straight to it. Long-press a tile to move or remove it.</string>
+    <string name="menu_unpin_source">Remove from Home</string>
+    <string name="menu_source_device">Connected Device</string>
+    <string name="menu_source_plain">Default</string>
+    <string name="device_apple_tv">Apple TV</string>
+    <string name="device_playstation">PlayStation</string>
+    <string name="device_switch">Nintendo Switch</string>
+    <string name="device_xbox">Xbox</string>
+    <string name="device_console">Game Console</string>
+    <string name="device_computer">Computer</string>
+    <string name="device_set_top_box">Set-top Box</string>
+    <string name="device_speaker">Soundbar</string>
+    <string name="cc_update_available">New Version: %s</string>
+    <string name="cc_update_title">Hi TV %s</string>
+    <string name="cc_update_current">This TV is running Hi TV %s.</string>
+    <string name="cc_update_notes">New in %s</string>
+    <string name="cc_update_keeps">Your apps, layout, wallpaper and settings stay as they are.</string>
+    <string name="cc_update_scan">Scan to open the Hi TV GitHub releases page for APKs and update instructions.</string>
+    <string name="cc_update_scan_else">Cannot install? Scan with a phone for other ways to update.</string>
+    <string name="cc_update_install">Download and Install</string>
+    <string name="cc_update_downloading">Downloading… %d%%</string>
+    <string name="cc_update_opened">The installer is open: confirm the update there. When it is done, choose Done to come back to Hi TV, with every setting kept.</string>
+    <string name="cc_update_permission">Allow Hi TV to install apps in the settings that just opened, then come back and choose Download and Install again.</string>
+    <string name="cc_update_storage_permission">This TV needs storage access to save the update. Allow the file permission request, then choose Download and Install again.</string>
+    <string name="cc_update_failed_download">The update could not be downloaded or verified. Check your network and try again, or use the QR code for manual installation.</string>
+    <string name="cc_update_failed_blocked">This TV does not let apps install other apps. Update with the command below.</string>
+    <string name="cc_update_failed_signature">The Aerial on this TV is signed differently from the official one, so it cannot be updated over.</string>
+    <string name="cc_update_failed_older">The website does not have a newer version yet. Try again in a while.</string>
+    <string name="st_pin">Parental PIN</string>
+    <string name="st_pin_off">Off</string>
+    <string name="st_pin_on">On</string>
+    <string name="st_pin_hint">Asked before TV settings open and before hidden apps come back.</string>
+    <string name="pin_enter">Enter PIN</string>
+    <string name="pin_enter_hint">Use the number keys or the keypad below.</string>
+    <string name="pin_create">Choose a PIN</string>
+    <string name="pin_create_hint">Four digits. Keep it somewhere safe: if it is forgotten, only a computer over ADB can clear it.</string>
+    <string name="pin_confirm">Enter It Again</string>
+    <string name="pin_wrong">Wrong PIN. Try again.</string>
+    <string name="pin_mismatch">The two PINs differ. Choose one again.</string>
+    <string name="pin_kind_hint">Digits come from the number keys or the keypad. Arrows are four presses of the arrow keys, and a child watching sees nothing to copy.</string>
+    <string name="pin_kind_digits">Four Digits</string>
+    <string name="pin_kind_arrows">Four Arrows</string>
+    <string name="pin_arrows_hint">Press the arrow keys four times: up, down, left or right.</string>
+    <string name="pin_arrows_create_hint">Press the arrow keys four times. Keep the order somewhere safe: if it is forgotten, only a computer over ADB can clear it.</string>
+    <string name="weather_clear">Clear</string>
+    <string name="weather_partly_cloudy">Partly Cloudy</string>
+    <string name="weather_cloudy">Cloudy</string>
+    <string name="weather_fog">Fog</string>
+    <string name="weather_rain">Rain</string>
+    <string name="weather_snow">Snow</string>
+    <string name="weather_thunder">Thunderstorms</string>
+    <string name="weather_high_low">H:%1$d°  L:%2$d°</string>
+    <string name="st_columns">Apps per Row</string>
+    <string name="st_columns_hint">How many apps fit across Home, and in folders. Six shows more at a glance; four makes them larger, easier to see from across the room.</string>
+    <string name="st_peek">Second Row</string>
+    <string name="st_peek_show">Peek</string>
+    <string name="st_peek_hide">Hidden</string>
+    <string name="st_peek_hint">With one row, the top of the second row peeks out under the first, to show there is more below. Hidden keeps it out of sight until you press down.</string>
+    <string name="menu_boot_on">Open When TV Turns On</string>
+    <string name="menu_boot_off">Don\'t Open When TV Turns On</string>
+    <string name="cc_boot">When TV Turns On</string>
+    <string name="notice_boot_on">%1$s will open when the TV turns on</string>
+    <string name="notice_boot_switch">%1$s will open when the TV turns on, instead of %2$s</string>
+    <string name="notice_boot_off">%1$s will no longer open when the TV turns on</string>
+    <string name="tile_stock_home">TV Home</string>
+    <string name="tile_xiaowei_call">Xiaowei Call</string>
+    <string name="tile_kids">Kids</string>
+    <string name="ss_videos">Videos</string>
+    <string name="ss_videos_hint">Add MP4 or MOV films from the phone page. Plays offline; photos are shown when no film can play.</string>
+    <string name="ss_system">System</string>
+    <string name="ss_system_hint">The TV\'s own screensaver, as it came with the TV (Xiaomi\'s pictures, for one). Hi TV shows none of its own.</string>
+    <string name="wp_videos_note">Your own videos, sent from the phone, silent and one after another. They move like the aerial films and stop on the frame showing.</string>
+    <string name="wp_videos_rotate">My Videos, In Turn</string>
+    <string name="wp_video_note">Your own video, sent from the phone, silent and on a loop. It moves like the aerial films and stops on the frame showing.</string>
+    <string name="wp_source_note">This input\'s live picture behind Home, without sound; open the input for sound. Going down to the apps, it gives way to a frosted background. A dark picture shows while the input has nothing to show.</string>
+    <string name="st_play">Playing</string>
+    <string name="st_play_still">When still</string>
+    <string name="st_play_always">Always</string>
+    <string name="st_play_hint">When still: after 10 seconds on the top row (either row in two rows); a key stops it. Always: keys do not stop it, and it is shaded a little; it stops when you go further down to the apps.</string>
+    <string name="ss_show_time">Time</string>
+    <string name="ss_show_time_hint">The time over the aerial and photo screensavers. The time and place name move a little now and then, so nothing stays on the same pixels.</string>
+    <string name="ss_flip_clock">Flip Clock</string>
+    <string name="ss_standby_after">Standby after</string>
+    <string name="ss_standby_hint">After this much time in the screensaver, Hi TV ends its system dream so Android can put the TV into standby. Never keeps the screensaver running.</string>
+    <string name="home_good_morning">Good morning</string>
+    <string name="home_good_afternoon">Good afternoon</string>
+    <string name="home_good_evening">Good evening</string>
+    <string name="home_good_night">Good night</string>
+    <string name="wp_wallpaper_title">Wallpaper settings</string>
+    <string name="wp_dynamic">Dynamic video wallpaper</string>
+    <string name="wp_dynamic_hint">Scan the code on the right, upload a video from your phone, then select it here.</string>
+    <string name="st_refresh_rate">Refresh rate</string>
+    <string name="st_refresh_rate_hint">Applies to Hi TV only; video apps keep their own rate. Unsupported modes are disabled. Auto uses the highest mode Android reports as seamless (Android 12+); otherwise it follows system policy. Manual mode changes may briefly blank the screen.</string>
+    <string name="st_refresh_auto">Auto</string>
+    <string name="st_refresh_30">30 Hz</string>
+    <string name="st_refresh_60">60 Hz</string>
+    <string name="st_refresh_120">120 Hz</string>
+    <string name="cc_about_attribution">Hi TV is a derivative of Null_\'s Halo TV; current author BenBen.</string>
+    <string name="donate_title">Support Hi TV</string>
+    <string name="donate_open">Open</string>
+    <string name="donate_subtitle">Support BenBen</string>
+    <string name="donate_description">Thank you for enjoying Hi TV. Your support helps ongoing development and maintenance.</string>
+    <string name="donate_hint">Voluntary support; any amount. All features remain free.</string>
+    <string name="donate_wechat">WeChat Pay</string>
+    <string name="donate_alipay">Alipay</string>
+    <string name="donate_close">Close</string>
+    <string name="donate_back">Press Back to close</string>
+    <string name="guard_consent_description">Home Guard can intercept Home and bring Hi TV to the front. It uses Accessibility; optional recovery permissions may re-enable it after restart. Turn it off here at any time. Disabling it does not restore the default launcher; change that in system settings.</string>
+    <string name="guard_agree_enable">Agree and set up Home Guard</string>
+    <string name="guard_turn_off">Turn off Home Guard</string>
+    <string name="guard_turn_off_hint">Stops Home Guard and its automatic recovery. To change the default launcher, use system settings.</string>
+    <string name="cc_system_settings">System Settings</string>
+    <string name="cc_halo_settings">Control Center</string>
+    <string name="cc_desktop_settings">Hi TV Settings</string>
+    <string name="halo_notice_title">Hi TV Notice</string>
+    <string name="halo_notice_body">Hi TV is a secondary development of Null_\'s Halo TV (https://github.com/Null9797/halo-tv). The current author is BenBen. It is not an official release.
+
+Halo TV itself builds on the open-source Aerial project pengchujin/aerial-tv (https://github.com/pengchujin/aerial-tv). Names, code, and licenses of Aerial and Halo TV belong to their respective rights holders.
+
+This project is not affiliated with or endorsed by Null_, the Aerial authors, Apple, or any TV manufacturer.</string>
+    <string name="halo_notice_close">Close</string>
+    <string name="halo_notice_back">Press Back to close</string>
+    <string name="home_wallpaper_screensaver">Wallpaper &amp; Screensaver</string>
+    <string name="home_network_settings">Network Settings</string>
+    <string name="clock_bar">Clock bar</string>
+    <string name="clock_center">Center</string>
+    <string name="clock_status">Status bar</string>
+    <string name="clock_bar_size">Clock bar size</string>
+    <string name="clock_default">Default</string>
+    <string name="clock_extra">Extra large</string>
+    <string name="weather_city_edit">Set weather city</string>
+    <string name="weather_city_hint">Enter city name</string>
+    <string name="weather_city_failed">City not found; check your network or try another name</string>
+    <string name="clock_text_color">Desktop text color</string>
+    <string name="clock_white">White</string>
+    <string name="clock_dark_gray">Dark gray</string>
+    <string name="clock_black">Black</string>
+    <string name="plate_liquid">Liquid glass</string>
+    <string name="category_static">Static wallpapers</string>
+    <string name="category_dynamic">Live wallpapers</string>
+    <string name="category_saver">Screensaver</string>
+    <string name="focus_liquid_slide">Liquid slide</string>
+    <string name="sound_soft">Soft</string>
+    <string name="sound_crystal">Crystal</string>
+    <string name="video_sound">Video wallpaper audio</string>
+    <string name="video_sound_hint">Applies to uploaded video wallpapers; muted by default.</string>
+    <string name="video_muted">Muted</string>
+    <string name="video_unmuted">Sound on</string>
+    <string name="video_fit">Video scaling</string>
+    <string name="video_fit_hint">Fill may crop the video; fit may show black bars.</string>
+    <string name="video_fill">Fill</string>
+    <string name="video_contain">Fit</string>
+    <string name="wallpaper_current">In use</string>
+    <string name="wallpaper_apply">Set wallpaper</string>
+    <string name="wallpaper_delete">Delete</string>
+    <string name="wallpaper_hold_manage">Hold OK to preview or delete uploaded wallpapers</string>
+    <string name="wallpaper_delete_confirm">Delete this uploaded wallpaper?</string>
+    <string name="settings_category_home">Home layout</string>
+    <string name="settings_category_clock">Clock &amp; weather</string>
+    <string name="settings_category_controls">Controls &amp; performance</string>
+    <string name="settings_category_safety">Security</string>
+    <string name="settings_preview_title">Preview</string>
+    <string name="settings_preview_hint">Layout illustration · sample icons</string>
+    <string name="guide_step">%1$d / %2$d</string>
+    <string name="guide_welcome_title">Make TV feel like yours.</string>
+    <string name="guide_welcome_body">Welcome to Hi TV. A calm home screen, smooth motion and clear controls put what you want to watch first.</string>
+    <string name="guide_origin_title">From Halo TV, refined further.</string>
+    <string name="guide_origin_body">Hi TV is a secondary development of Null_\'s Halo TV. The current author is BenBen. Halo TV itself builds on Aerial (pengchujin/aerial-tv). Hi TV is not an official release and is not affiliated with or endorsed by Apple or TV makers.</string>
+    <string name="guide_origin_note">Based on Null_ / Halo TV · Current author BenBen</string>
+    <string name="guide_original_author">Halo TV original author · Null_</string>
+    <string name="guide_maintainer">Current author · BenBen</string>
+    <string name="guide_home_title">A home screen to enjoy.</string>
+    <string name="guide_home_body">A rounded dock, clear app art, time, date and weather sit naturally on your wallpaper. This is a real Hi TV capture from a TCL TV. You can tune the layout later.</string>
+    <string name="guide_features_title">Your essentials, close at hand.</string>
+    <string name="guide_features_body">The top-right shortcuts open inputs, network, system settings and Control Center. There you can adjust performance, text color and volume, or open Wallpaper and Screensaver. A flip clock is available as a screensaver.</string>
+    <string name="guide_setup_title">Make it yours in three steps.</string>
+    <string name="guide_setup_body">Use your remote for basic settings. With your phone on the same network, scan the code on the settings page to upload wallpaper or app art. Default home and Home Guard are your choice.</string>
+    <string name="guide_setup_one">Adjust layout, clock and performance in App Settings.</string>
+    <string name="guide_setup_two">Choose a still or moving wallpaper in Wallpaper and Screensaver.</string>
+    <string name="guide_setup_three">If needed, set the home screen and Home Guard in Control Center.</string>
+    <string name="guide_donation_title">Enjoying Hi TV?</string>
+    <string name="guide_donation_body">Hi TV is free. Your support helps with maintenance and improvements. Scan a code now, or try it first and return to Support in Control Center later.</string>
+    <string name="guide_donation_voluntary">Entirely optional · All features stay available</string>
+    <string name="guide_begin">Get started</string>
+    <string name="guide_next">Continue</string>
+    <string name="guide_later">Maybe later</string>
+    <string name="guide_done">Finish and open Home</string>
+    <string name="guide_final_title">Welcome to Hi TV</string>
+    <string name="guide_final_body">Your TV, beautifully yours.</string>
+    <string name="guide_update_title">Hi TV, refined throughout.</string>
+    <string name="guide_update_body">Secondary development of Null_\'s Halo TV. Compared with the original, Hi TV adds more ways to style and tune your home screen for your taste and TV.</string>
+    <string name="guide_update_dock">Liquid Glass Dock option</string>
+    <string name="guide_update_focus">Liquid Glass sliding app focus</string>
+    <string name="guide_update_performance">Smooth, Balanced and Visual modes</string>
+    <string name="guide_update_clock">Clock at left, right, center or top bar</string>
+    <string name="guide_update_text_color">Adjustable home screen text color</string>
+    <string name="guide_update_control">Redesigned Control Center and settings</string>
+    <string name="ss_aerial_keeps">Hi TV keeps the last %2$d films on the TV (up to %1$s); wallpaper and screensaver play them in turn, with a new one each day. In the screensaver, right brings a new film, left goes back.</string>
+    <string name="cc_self_compile">Make Hi TV Smoother</string>
+    <string name="home_clean_background">Clean background</string>
+    <string name="home_clean_requested">Requested background cleanup for user apps. Android decides which processes can close.</string>
+    <string name="home_clean_none">No eligible user apps were found.</string>
+    <string name="home_clean_unsupported">Android 14 or newer does not allow clearing other apps this way.</string>
+    <string name="home_clean_result">Requested cleanup for %1$d apps. Available memory change: %2$s MB (system-wide estimate).</string>
+    <string name="settings_icon_position">Settings icon position</string>
+    <string name="settings_icon_left">Left</string>
+    <string name="settings_icon_right">Right</string>
+    <string name="settings_icon_upper_right">Upper right</string>
+    <string name="settings_icon_visibility">Settings icon</string>
+    <string name="settings_icon_always">Always visible</string>
+    <string name="settings_icon_fade">Fade out</string>
+    <string name="settings_icon_fade_hint">Fades after inactivity; press Up or Menu to show it again. Hidden remains invisible but can still be selected.</string>
+    <string name="show_lunar_date">Lunar date</string>
+    <string name="lunar_date_value">Lunar %1$s</string>
+    <string name="lite_weather_phone_hint">Scan the QR code to set the weather city on your phone.</string>
+    <string name="settings_icon_hidden">Hidden</string>
+    <string name="clock_bold">Large and bold</string>
+
+    <string name="cc_update_waiting">Waiting for installation…</string>
+
+    <string name="kids_title">Kids and Elders</string>
+
+    <string name="kids_hint">A Home with only the apps you pick and nothing to rearrange. Leaving it takes the parental PIN; it comes back by itself when the screensaver starts or the TV goes to sleep.</string>
+
+    <string name="kids_kind">For</string>
+
+    <string name="kids_kind_kids">Kids</string>
+
+    <string name="kids_kind_elders">Elders</string>
+
+    <string name="kids_kind_kids_hint">For children: time limits and breaks, and other apps kept away.</string>
+
+    <string name="kids_kind_elders_hint">For older people: bigger tiles with their names and the white focus frame, nothing to move by accident.</string>
+
+    <string name="kids_block">Other Apps</string>
+
+    <string name="kids_block_on">Keep Away</string>
+
+    <string name="kids_block_off">Let Through</string>
+
+    <string name="kids_block_hint">An app not picked here, opened by a key on the remote, the voice assistant or another app, goes straight back to Home.</string>
+
+    <string name="kids_block_no_guard">Home Guard is not on for this TV: Home shows only the apps picked, but apps opened another way cannot be kept away.</string>
+
+    <string name="kids_weekday">Weekdays</string>
+
+    <string name="kids_weekend">Weekends</string>
+
+    <string name="kids_minutes_hint">Minutes a day in apps and inputs; time on Home does not count. Any number can be set on the phone page.</string>
+
+    <string name="kids_no_limit">None</string>
+
+    <string name="kids_latest">Until</string>
+
+    <string name="kids_latest_hint">No TV before %s or from this time on. Any times can be set on the phone page.</string>
+
+    <string name="kids_break">Breaks</string>
+
+    <string name="kids_break_hint">After this many minutes of watching, a %d-minute break.</string>
+
+    <string name="kids_start_kids">Start Kids Mode</string>
+
+    <string name="kids_start_elders">Start Elders Mode</string>
+
+    <string name="kids_pick_first">Pick at least one app on the right first.</string>
+
+    <string name="kids_loading">The apps are still loading.</string>
+
+    <string name="kids_turn_off">Turn Mode Off</string>
+
+    <string name="kids_apps">Shown Apps · %d</string>
+
+    <string name="kids_apps_hint">Home shows them in the order picked. Apps installed later are not added.</string>
+
+    <string name="kids_sources_note">With an input picked, the remote’s input key can also switch to the TV’s other inputs: they share one player, which Aerial cannot tell apart.</string>
+
+    <string name="kids_m">%d min</string>
+
+    <string name="kids_h">%d h</string>
+
+    <string name="kids_hm">%1$d h %2$d min</string>
+
+    <string name="kids_lock_day">That’s All for Today</string>
+
+    <string name="kids_lock_day_sub">%s of TV today. More tomorrow.</string>
+
+    <string name="kids_lock_late">TV Time Is Over</string>
+
+    <string name="kids_lock_late_sub">The TV is on from %1$s to %2$s.</string>
+
+    <string name="kids_lock_break">Time for a Break</string>
+
+    <string name="kids_lock_break_sub">Look out of the window for a while. Back in %s.</string>
+
+    <string name="kids_parent">Parent</string>
+
+    <string name="kids_grant_title">Allow More Time</string>
+
+    <string name="kids_grant">%d More Minutes</string>
+
+    <string name="kids_grant_day">No Limit Today</string>
+
+    <string name="cc_kids_allowed_until">Allowed until %s</string>
+
+    <string name="cc_kids_no_limit">No limit today · %s so far</string>
+
+    <string name="cc_kids_left">%s left today</string>
+
+    <string name="cc_kids_leave">Leave Kids Mode</string>
+
+    <string name="cc_elders_leave">Leave Elders Mode</string>
+
+    <string name="cc_kids_back">Back to Kids Mode</string>
+
+    <string name="cc_elders_back">Back to Elders Mode</string>
+
+    <string name="st_kids">Kids and Elders</string>
+
+    <string name="st_kids_hint">A Home with only the apps you pick, and time limits for children.</string>
+
+    <string name="kids_blocked">%s is not allowed here</string>
+
+    <string name="kids_warn">%d min of TV left</string>
+
+    <string name="kids_warn_break">A break in %d min</string>
+    <string name="halo_kids_custom">Custom</string>
+    <string name="halo_kids_configure_first">Configure Kids and Elders mode in App Settings first</string>
+    <string name="halo_kids_invalid_minutes">Enter minutes between 1 and 1440</string>
+    <string name="category_sources">TV inputs</string>
+</resources>

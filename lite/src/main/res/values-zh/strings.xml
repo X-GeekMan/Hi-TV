@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="halo_clock_center">居中</string>
+    <string name="halo_clock_status">放入状态栏</string>
+    <string name="halo_desktop_text_color">桌面文字颜色</string>
+    <string name="halo_color_white">白色</string>
+    <string name="halo_color_black">黑色</string>
+    <string name="halo_color_gray">深灰色</string>
+    <string name="halo_clock_default">默认</string>
+    <string name="halo_clock_large">大</string>
+    <string name="halo_clock_extra">超大</string>
+    <string name="halo_device_capacity">运存和存储信息</string>
+    <string name="halo_lite_settings_title">HiTV 设置</string>
+    <string name="halo_lite_preview">效果预览</string>
+    <string name="halo_lite_wallpaper">壁纸与外观</string>
+    <string name="halo_lite_clock_weather">时钟与天气</string>
+    <string name="halo_lite_interaction">操作与交互</string>
+    <string name="halo_lite_security">安全</string>
+</resources>

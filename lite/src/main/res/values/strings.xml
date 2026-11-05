@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Hi TV Lite</string>
+    <string name="halo_clock_center">Center</string>
+    <string name="halo_clock_status">Status bar</string>
+    <string name="halo_desktop_text_color">Desktop text color</string>
+    <string name="halo_color_white">White</string>
+    <string name="halo_color_black">Black</string>
+    <string name="halo_color_gray">Dark gray</string>
+    <string name="halo_clock_default">Default</string>
+    <string name="halo_clock_large">Large</string>
+    <string name="halo_clock_extra">Extra large</string>
+    <string name="halo_device_capacity">Available memory and storage</string>
+    <string name="halo_lite_settings_title">HiTV Settings</string>
+    <string name="halo_lite_preview">Preview</string>
+    <string name="halo_lite_wallpaper">Wallpaper and appearance</string>
+    <string name="halo_lite_clock_weather">Clock and weather</string>
+    <string name="halo_lite_interaction">Interaction</string>
+    <string name="halo_lite_security">Security</string>
+</resources>

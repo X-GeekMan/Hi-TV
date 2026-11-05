@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="halo_clock_center">Ортада</string>
+    <string name="halo_clock_status">Күй жолағы</string>
+    <string name="halo_desktop_text_color">Мәтін түсі</string>
+    <string name="halo_color_white">Ақ</string>
+    <string name="halo_color_black">Қара</string>
+    <string name="halo_color_gray">Қою сұр</string>
+    <string name="halo_clock_default">Әдепкі</string>
+    <string name="halo_clock_large">Үлкен</string>
+    <string name="halo_clock_extra">Өте үлкен</string>
+    <string name="halo_device_capacity">Бос жедел жад және сақтау орны</string>
+    <string name="halo_lite_settings_title">Hi TV баптаулары</string>
+    <string name="halo_lite_preview">Алдын ала қарау</string>
+    <string name="halo_lite_wallpaper">Тұсқағаз және көрініс</string>
+    <string name="halo_lite_clock_weather">Сағат және ауа райы</string>
+    <string name="halo_lite_interaction">Басқару</string>
+    <string name="halo_lite_security">Қауіпсіздік</string>
+</resources>

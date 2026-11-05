@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 180">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="320" y2="180" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#07122F"/>
+      <stop offset="1" stop-color="#0E2048"/>
+    </linearGradient>
+  </defs>
+  <rect width="320" height="180" fill="url(#bg)"/>
+  <circle cx="82" cy="90" r="46" fill="#1A62C7" opacity="0.16"/>
+</svg>
