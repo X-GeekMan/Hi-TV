@@ -4,7 +4,14 @@ Hi TV is a secondary development of [Null_](https://github.com/Null9797)’s [Ha
 
 The full app targets Android 5.0+ (Standard or Guard). Lite uses a separate package for Android 4.0–4.4 (beta).
 
-Build with JDK 17 and the Android SDK:
+## Download
+
+- [Latest Release](https://github.com/X-GeekMan/Hi-TV/releases/latest)
+- [HiTV-2.1.2-standard.apk](https://github.com/X-GeekMan/Hi-TV/releases/download/v2.1.2/HiTV-2.1.2-standard.apk)
+
+## Build
+
+JDK 17 and the Android SDK:
 
 ```bash
 ./gradlew :app:assembleStandardRelease :app:assembleGuardRelease :lite:assembleRelease
