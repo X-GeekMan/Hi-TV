@@ -4,7 +4,14 @@ Hi TV 基于 [Null_](https://github.com/Null9797) 的 [Halo TV](https://github.c
 
 完整版适用于 Android 5.0 及以上，Standard 和 Guard 二选一。Lite 使用独立包名，面向 Android 4.0–4.4（测试版）。
 
-使用 JDK 17 和 Android SDK 构建：
+## 下载
+
+- [最新 Release](https://github.com/X-GeekMan/Hi-TV/releases/latest)
+- [HiTV-2.1.2-standard.apk](https://github.com/X-GeekMan/Hi-TV/releases/download/v2.1.2/HiTV-2.1.2-standard.apk)
+
+## 构建
+
+使用 JDK 17 和 Android SDK：
 
 ```bash
 ./gradlew :app:assembleStandardRelease :app:assembleGuardRelease :lite:assembleRelease
